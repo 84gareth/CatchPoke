@@ -1,0 +1,128 @@
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:36:27] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:36:48] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:37:09] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:37:29] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:37:50] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:38:11] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:38:32] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:38:53] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:39:14] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:39:35] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:39:56] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:40:17] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:40:37] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:40:58] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:41:18] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:41:39] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:42:00] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:42:20] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:42:41] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:43:02] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:43:22] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:43:43] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:44:04] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:44:24] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:44:45] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:45:06] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:45:26] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:45:47] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:46:08] pull failed — will retry next tick
+fatal: couldn't find remote ref main
+fatal: No rebase in progress?
+No stash entries found.
+[2026-09-06 09:46:28] pull failed — will retry next tick
+From https://github.com/84gareth/CatchPoke
+ * branch            main       -> FETCH_HEAD
+ + 015f813...0e96c9f main       -> origin/main  (forced update)
+Created autostash: 06cfcdd
+Applying autostash resulted in conflicts.
+Your changes are safe in the stash.
+You can run "git stash pop" or "git stash drop" at any time.
+                                                                                Successfully rebased and updated refs/heads/main.
