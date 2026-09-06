@@ -725,3 +725,25 @@ fatal: unable to access 'https://github.com/84gareth/CatchPoke.git/': The reques
 [2026-09-06 09:56:23] pushed: .tools/sync.log
 From https://github.com/84gareth/CatchPoke
  * branch            main       -> FETCH_HEAD
+[main cfbb954] sync from Cowork: .tools/sync.log
+ Committer: Gareth Davies <gareth@Gareths-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 21 insertions(+)
+To https://github.com/84gareth/CatchPoke.git
+   0e96c9f..cfbb954  main -> main
+[2026-09-06 09:56:44] pushed: .tools/sync.log
+From https://github.com/84gareth/CatchPoke
+ * branch            main       -> FETCH_HEAD
+   cfbb954..71163e5  main       -> origin/main
+Updating cfbb954..71163e5
