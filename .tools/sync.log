@@ -402,3 +402,32 @@ fatal: unable to access 'https://github.com/84gareth/CatchPoke.git/': The reques
 [2026-09-06 09:51:05] pushed: .tools/sync.log
 From https://github.com/84gareth/CatchPoke
  * branch            main       -> FETCH_HEAD
+[main 1ae3c85] sync from Cowork: .github/workflows/optimize-glb.yml,.github/workflows/sync-mons-manifest.yml,.gitignore,.tools/sync.log,README.md,assets/README.md,assets/mon
+ Committer: Gareth Davies <gareth@Gareths-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 472 insertions(+)
+ create mode 100644 .github/workflows/optimize-glb.yml
+ create mode 100644 .github/workflows/sync-mons-manifest.yml
+ create mode 100644 .gitignore
+ create mode 100644 README.md
+ create mode 100644 assets/README.md
+ create mode 100644 assets/mons/README.md
+ create mode 100644 assets/mons/crypty-crab.glb
+ create mode 100644 handover.md
+remote: Permission to 84gareth/CatchPoke.git denied to 84gareth.
+fatal: unable to access 'https://github.com/84gareth/CatchPoke.git/': The requested URL returned error: 403
+[2026-09-06 09:51:26] push failed — will retry next tick
+[2026-09-06 09:51:26] pushed: .github/workflows/optimize-glb.yml,.github/workflows/sync-mons-manifest.yml,.gitignore,.tools/sync.log,README.md,assets/README.md,assets/mon
+From https://github.com/84gareth/CatchPoke
+ * branch            main       -> FETCH_HEAD
