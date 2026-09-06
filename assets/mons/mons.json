@@ -4,112 +4,83 @@
     "color": "#f2c744",
     "dexOrder": 50,
     "hp": 32,
-    "moves": [
-      "ThunderWay",
-      "Tackle"
-    ],
+    "moves": ["ThunderWay", "Tackle"],
     "name": "Bolttoad",
     "shape": "bird",
+    "shared": true,
     "starter": false,
-    "types": [
-      "electric"
-    ]
+    "types": ["electric"]
   },
   "crypty-crab": {
     "accent": "#e8dfff",
     "color": "#b8a8d0",
     "dexOrder": 40,
     "hp": 35,
-    "moves": [
-      "SpookyPinch",
-      "Tackle"
-    ],
+    "moves": ["SpookyPinch", "Tackle"],
     "name": "Crypty Crab",
     "shape": "crab",
+    "shared": false,
     "starter": false,
-    "types": [
-      "normal",
-      "ghost"
-    ]
+    "types": ["normal", "ghost"]
   },
   "grove": {
     "accent": "#c4f770",
     "color": "#4bd07a",
     "dexOrder": 30,
     "hp": 36,
-    "moves": [
-      "TreeStomp",
-      "Tackle"
-    ],
+    "moves": ["TreeStomp", "Tackle"],
     "name": "Grove",
     "shape": "blob",
+    "shared": false,
     "starter": true,
-    "types": [
-      "grass"
-    ]
+    "types": ["grass"]
   },
   "splub": {
     "accent": "#c9f0ff",
     "color": "#3a9be0",
     "dexOrder": 20,
     "hp": 34,
-    "moves": [
-      "SharkWave",
-      "Tackle"
-    ],
+    "moves": ["SharkWave", "Tackle"],
     "name": "Splub",
     "shape": "blob",
+    "shared": false,
     "starter": true,
-    "types": [
-      "water"
-    ]
+    "types": ["water"]
   },
   "swinglet": {
     "accent": "#ffd05a",
     "color": "#e85a2a",
     "dexOrder": 10,
     "hp": 34,
-    "moves": [
-      "HotDiggityDoggyDog",
-      "Tackle"
-    ],
+    "moves": ["HotDiggityDoggyDog", "Tackle"],
     "name": "Swinglet",
     "shape": "blob",
+    "shared": false,
     "starter": true,
-    "types": [
-      "fire"
-    ]
+    "types": ["fire"]
   },
   "tidefrog": {
     "accent": "#c9f0ff",
     "color": "#3a9be0",
     "dexOrder": 70,
     "hp": 36,
-    "moves": [
-      "SharkWave",
-      "Tackle"
-    ],
+    "moves": ["SharkWave", "Tackle"],
     "name": "Tidefrog",
     "shape": "squid",
+    "shared": true,
     "starter": false,
-    "types": [
-      "water"
-    ]
+    "types": ["water"]
   },
   "vinehop": {
     "accent": "#c4f770",
     "color": "#4fbf5a",
     "dexOrder": 60,
     "hp": 36,
-    "moves": [
-      "TreeStomp",
-      "Tackle"
-    ],
+    "moves": ["TreeStomp", "Tackle"],
     "name": "Vinehop",
     "shape": "turtle",
+    "shared": true,
     "starter": false,
-    "types": [
-      "grass"
-    ]
+    "types": ["grass"]
   }
 }
