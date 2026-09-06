@@ -126,3 +126,27 @@ Applying autostash resulted in conflicts.
 Your changes are safe in the stash.
 You can run "git stash pop" or "git stash drop" at any time.
                                                                                 Successfully rebased and updated refs/heads/main.
+[main 76caff3] sync from Cowork: .tools/sync.log,.tools/sync.sh,assets/mons/mons.json
+ Committer: Gareth Davies <gareth@Gareths-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 230 insertions(+)
+ create mode 100644 .tools/sync.log
+ create mode 100755 .tools/sync.sh
+ create mode 100644 assets/mons/mons.json
+remote: Permission to 84gareth/CatchPoke.git denied to 84gareth.
+fatal: unable to access 'https://github.com/84gareth/CatchPoke.git/': The requested URL returned error: 403
+[2026-09-06 09:46:49] push failed — will retry next tick
+[2026-09-06 09:46:49] pushed: .tools/sync.log,.tools/sync.sh,assets/mons/mons.json
+From https://github.com/84gareth/CatchPoke
+ * branch            main       -> FETCH_HEAD
