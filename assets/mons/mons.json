@@ -30,6 +30,48 @@
       "ghost"
     ]
   },
+  "grove": {
+    "accent": "#e0e0e0",
+    "color": "#a8a8a8",
+    "hp": 30,
+    "moves": [
+      "Tackle"
+    ],
+    "name": "Grove",
+    "shape": "blob",
+    "starter": false,
+    "types": [
+      "normal"
+    ]
+  },
+  "splub": {
+    "accent": "#e0e0e0",
+    "color": "#a8a8a8",
+    "hp": 30,
+    "moves": [
+      "Tackle"
+    ],
+    "name": "Splub",
+    "shape": "blob",
+    "starter": false,
+    "types": [
+      "normal"
+    ]
+  },
+  "swinglet": {
+    "accent": "#e0e0e0",
+    "color": "#a8a8a8",
+    "hp": 30,
+    "moves": [
+      "Tackle"
+    ],
+    "name": "Swinglet",
+    "shape": "blob",
+    "starter": false,
+    "types": [
+      "normal"
+    ]
+  },
   "tidefrog": {
     "accent": "#c9f0ff",
     "color": "#3a9be0",
